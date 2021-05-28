@@ -1,4 +1,5 @@
-# tretadev
-Repositório criado com o intuito de centralizar as tretas semanais que acontecem na cena dev BR.
+# TretaDev
+
+Tretas da cena dev BR semanais, centralizadas num único lugar.
 
 
